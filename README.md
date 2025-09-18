@@ -22,7 +22,7 @@ A SwiftUI-based iOS application for generating customizable QR codes with advanc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/buld-your-own-x-with-ai/QRCode
+   git clone https://github.com/build-your-own-x-with-ai/QRCode
    ```
 
 2. Open `QrCode_iOS.xcodeproj` in Xcode
